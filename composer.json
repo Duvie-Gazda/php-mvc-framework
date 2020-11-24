@@ -1,0 +1,16 @@
+{
+    "name": "david/php-mvc-framework",
+    "authors": [
+        {
+            "name": "Duvi-Gazda",
+            "email": "gazda.haimdavid@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "application/",
+            "UK\\": "UzhKeksy"
+        }
+    },
+    "require": {}
+}
