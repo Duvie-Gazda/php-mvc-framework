@@ -12,5 +12,7 @@
             "UK\\": "UzhKeksy"
         }
     },
-    "require": {}
+    "require": {
+        "joshcam/mysqli-database-class": "^2.9"
+    }
 }

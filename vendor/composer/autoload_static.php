@@ -6,6 +6,11 @@ namespace Composer\Autoload;
 
 class ComposerStaticInit6a0d437af015cb29b4bd7940d333e367
 {
+    public static $files = array (
+        '9c9a81795c809f4710dd20bec1e349df' => __DIR__ . '/..' . '/joshcam/mysqli-database-class/MysqliDb.php',
+        '94df122b6b32ca0be78d482c26e5ce00' => __DIR__ . '/..' . '/joshcam/mysqli-database-class/dbObject.php',
+    );
+
     public static $prefixLengthsPsr4 = array (
         'a' => 
         array (
